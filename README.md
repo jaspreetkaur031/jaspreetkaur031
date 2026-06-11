@@ -35,7 +35,6 @@ const jaspreet = {
 * 💻 Full Stack Developer
 * 📚 Solved 400+ DSA Problems
 * 🚀 Building real-world applications
-* 🎯 Seeking Software Development Internship Opportunities
 * ⚡ Passionate about scalable and user-friendly software
 
 ---
@@ -69,7 +68,6 @@ const jaspreet = {
 | 🔐 **Secrets Manager**             | Secure credential management platform with encrypted storage and authentication                |
 | 🎵 **Music Streaming Application** | React + Redux based music platform integrated with APIs                                        |
 | 🎓 **GyaanSatra**                  | Educational learning platform developed during industrial training                             |
-| 🎬 **Netflix Clone**               | Responsive Netflix UI clone built with HTML & CSS                                              |
 
 ---
 
@@ -93,7 +91,7 @@ const jaspreet = {
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jaspreetkaurb031/">
+<a marginlef = "20%" thref="https://www.linkedin.com/in/jaspreetkaurb031/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
