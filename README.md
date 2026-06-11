@@ -27,7 +27,6 @@ const jaspreet = {
     "Backend Development",
     "System Design"
   ],
-  lookingFor: "Software Development Internship",
   funFact: "I turn coffee ☕ into code 💻"
 };
 ```
