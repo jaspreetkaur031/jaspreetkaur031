@@ -3,7 +3,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY4b2JsaDlzdmIycXlxajY2dXlqd2RoOWV6czM3cjlpbWRia3YzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Brdlc8ulgB5Vk5mAhL/giphy.gif" width="250"/>
 
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Jaspreet+Kaur;Full+Stack+Developer;400%2B+DSA+Problems+Solved;Building+Modern+Web+Applications;Open+Source+Enthusiast"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Jaspreet+Kaur;Full+Stack+Developer;400%2B+DSA+Problems+Solved;Building+Modern+Web+Applications;Open+Source+Enthusiast"
 
 <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY4b2JsaDlzdmIycXlxajY2dXlqd2RoOWV6czM3cjlpbWRia3YzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Brdlc8ulgB5Vk5mAhL/giphy.gif)" width="250"/> -->
 
