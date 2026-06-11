@@ -75,12 +75,16 @@ const jaspreet = {
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="(https://leetcode.com/u/jaspreetkaur25/)">
 <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="YOUR_GFG_LINK">
+<a href="https://www.geeksforgeeks.org/profile/jaspreetkau988f">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.codechef.com/users/jk_25">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
 </p>
@@ -91,13 +95,19 @@ const jaspreet = {
 
 <p align="center">
 
-<a marginlef = "100%" thref="https://www.linkedin.com/in/jaspreetkaurb031/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jaspreetkaurb031/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:jaspreetkaurb4564@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
+
+</p>
 
 </p>
 
