@@ -62,7 +62,7 @@ Responsive Netflix landing page clone.
 
 ## 📫 Connect With Me
 
-LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jaspreetkaurb031/)
+LinkedIn: [Jaspreetkaurb031](https://www.linkedin.com/in/jaspreetkaurb031/)
 
 Email: jaspreetkaurb4564@gmail.com
 
