@@ -91,7 +91,7 @@ const jaspreet = {
 
 <p align="center">
 
-<a marginlef = "20%" thref="https://www.linkedin.com/in/jaspreetkaurb031/">
+<a marginlef = "100%" thref="https://www.linkedin.com/in/jaspreetkaurb031/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
