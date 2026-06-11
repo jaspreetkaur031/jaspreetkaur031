@@ -10,11 +10,10 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jaspreetkaur031&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-
+<!-- <img src="https://komarev.com/ghpvc/?username=jaspreetkaur031&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+--- -->
 </div>
 
----
 
 ## 👩‍💻 About Me
 
