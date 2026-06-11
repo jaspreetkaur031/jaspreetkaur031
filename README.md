@@ -95,8 +95,6 @@ const jaspreet = {
 
 <p align="center">
 
-<p align="center">
-
 <a href="https://www.linkedin.com/in/jaspreetkaurb031/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -106,8 +104,6 @@ const jaspreet = {
 <a href="mailto:jaspreetkaurb4564@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
-
-</p>
 
 </p>
 
