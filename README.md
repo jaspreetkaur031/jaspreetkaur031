@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jaspreetkaur031&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=jaspreetkaur031&label=Profile%20Views&color=ff69b4&style=for-the-badge"/> -->
 
 </div>
 
@@ -54,9 +54,9 @@ const jaspreet = {
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreetkaur031&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- <p align="center"> -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaspreetkaur031&theme=tokyonight" /> -->
-<!-- </p> -->
+ <p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaspreetkaur031&theme=tokyonight" /> 
+</p>
 
 ---
 
