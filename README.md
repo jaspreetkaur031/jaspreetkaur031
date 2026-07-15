@@ -76,7 +76,7 @@ const jaspreet = {
 <p align="center">
 
 <a href="https://leetcode.com/u/jaspreetkaur25/">
-<img src="https://img.shields.io/badge/LeetCode-%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/jaspreetkau988f">
