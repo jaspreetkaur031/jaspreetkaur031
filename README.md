@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm Jaspreet Kaur</h1>
 
-<h3>Full Stack Developer | Problem Solver | Open Source Enthusiast</h3>
+<h3>Full Stack Developer | Problem Solver </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=F75C7E&lines=400%2B+DSA+Problems+Solved;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Aspiring+Software+Engineer"/>
 
@@ -67,7 +67,7 @@ const jaspreet = {
 | 📈 **Zerodha Trading Platform**    | Full-stack stock trading platform with authentication, portfolio management and order tracking |
 | 🔐 **Secrets Manager**             | Secure credential management platform with encrypted storage and authentication                |
 | 🎵 **Music Streaming Application** | React + Redux based music platform integrated with APIs                                        |
-| 🎓 **GyaanSatra**                  | Educational learning platform developed during industrial training                             |
+| 🎓 **GyaanSatra**                  | Educational learning platform developed during 6 Months Internship
 
 ---
 
