@@ -54,7 +54,7 @@ const jaspreet = {
 <p align="center"><sub>An isometric, animated view of my contribution graph — set up via GitHub Action (instructions below).</sub></p>
 
 ---
-
+<!--
 ## 📈 Stats & Streaks
 
 <p align="center">
@@ -70,7 +70,7 @@ const jaspreet = {
 <img src="https://github-profile-trophy.vercel.app/?username=jaspreetkaur031&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
+- -->
 
 ## 🐍 Contribution Snake
 
