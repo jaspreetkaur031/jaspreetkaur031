@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,50:6A5ACD,100:F9C74F&height=200&section=header&text=Hi%2C%20I'm%20Jaspreet%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Serial%20Experimenter&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY4b2JsaDlzdmIycXlxajY2dXlqd2RoOWV6czM3cjlpbWRia3YzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Brdlc8ulgB5Vk5mAhL/giphy.gif" width="220"/>
+
+<h1>Hi 👋, I'm Jaspreet Kaur</h1>
+<h3>Full Stack Developer | Problem Solver | Serial Experimenter</h3>
 
 <!-- floating tech icons — upload floating-tech.svg to your repo root, then this line renders it -->
 <img src="./floating-tech.svg" width="100%"/>
