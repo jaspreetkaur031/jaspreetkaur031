@@ -142,9 +142,9 @@ Educational learning platform built during a 6-month internship.
 <a href="https://github.com/jaspreetkaur031"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://profile-counter.glitch.me/jaspreetkaur031/count.svg" alt="visitor count"/>
-</p>
+</p> -->
 
 ---
 
