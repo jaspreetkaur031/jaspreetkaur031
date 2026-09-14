@@ -80,7 +80,7 @@ const jaspreet = {
 
 ---
 
-<!-- ## 🚀 Featured Projects
+ ## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -89,7 +89,7 @@ const jaspreet = {
 ### 📈 Zerodha Trading Platform
 Full-stack stock trading platform — auth, portfolio management, live order tracking.
 
-**[🔗 Live Demo](#) · [💻 Repo](#)**
+**[🔗 Live Demo](https://zerodha-stock-marketing-platform.netlify.app/) · [💻 Repo](https://github.com/jaspreetkaur031/ZerodhaStockTrading_Platform01)**
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +97,7 @@ Full-stack stock trading platform — auth, portfolio management, live order tra
 ### 🔐 Secrets Manager
 Secure credential-management tool with encrypted storage and authentication.
 
-**[🔗 Live Demo](#) · [💻 Repo](#)**
+**[🔗 Live Demo](zero-vaultix.vercel.app) · [💻 Repo](https://github.com/jaspreetkaur031/Secrets-manager)**
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ Secure credential-management tool with encrypted storage and authentication.
 ### 🎵 Music Streaming App
 React + Redux music platform wired into external APIs.
 
-**[🔗 Live Demo](#) · [💻 Repo](#)**
+**[🔗 Live Demo](https://miraculous-musiclistening-site.netlify.app/) · [💻 Repo](https://github.com/jaspreetkaur031/music-app-react)**
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +115,7 @@ React + Redux music platform wired into external APIs.
 ### 🎓 GyaanSatra
 Educational learning platform built during a 6-month internship.
 
-**[🔗 Live Demo](#) · [💻 Repo](#)**
+**[💻 Repo](https://github.com/jaspreetkaur031/GyaanSatra)**
 
 </td>
 </tr>
@@ -123,38 +123,7 @@ Educational learning platform built during a 6-month internship.
 
 <p align="center"><sub>📩 Send me the real links and I'll drop them in — placeholders above so nothing's fake.</sub></p>
 
-- -->
-
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-📈 Zerodha Trading Platform
-
-Full-stack stock trading platform — auth, portfolio management, live order tracking.
-
-🔗 Live Demo · 💻 Repo
-
-</td> <td width="50%" valign="top">
-🔐 Secrets Manager
-
-Secure credential-management tool with encrypted storage and authentication.
-
-🔗 Live Demo · 💻 Repo
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🎵 Music Streaming App
-
-React + Redux music platform wired into external APIs.
-
-🔗 Live Demo · 💻 Repo
-
-</td> <td width="50%" valign="top">
-🎓 GyaanSatra
-
-Educational learning platform built during a 6-month internship.
-
-💻 Repo
-
-</td> </tr> </table> <p align="center"><sub>🔗 All project links are live and pulled straight from your GitHub.</sub></p>
+---
 
 ## 🏆 Coding Profiles
 
