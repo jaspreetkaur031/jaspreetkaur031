@@ -6,11 +6,11 @@
 <h3>Full Stack Developer | Problem Solver | Serial Experimenter</h3>
 
 <!-- floating tech icons — upload floating-tech.svg to your repo root, then this line renders it -->
-<!-- <img src="./floating-tech.svg" width="100%"/>
+ <!-- <img src="./floating-tech.svg" width="100%"/> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=650&lines=const+me+%3D+%7B+curious%3A+true+%7D;500%2B+DSA+problems+solved;I+break+things+on+purpose+to+learn;Currently+shipping+something+new" alt="Typing SVG" />
 
-</div> -->
+</div> 
 
 <br/>
 
