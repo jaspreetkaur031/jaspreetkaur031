@@ -80,7 +80,7 @@ const jaspreet = {
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -90,7 +90,6 @@ const jaspreet = {
 Full-stack stock trading platform — auth, portfolio management, live order tracking.
 
 **[🔗 Live Demo](#) · [💻 Repo](#)**
-<!-- ⬆️ replace # with your actual links -->
 
 </td>
 <td width="50%" valign="top">
@@ -124,7 +123,38 @@ Educational learning platform built during a 6-month internship.
 
 <p align="center"><sub>📩 Send me the real links and I'll drop them in — placeholders above so nothing's fake.</sub></p>
 
----
+- -->
+
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+📈 Zerodha Trading Platform
+
+Full-stack stock trading platform — auth, portfolio management, live order tracking.
+
+🔗 Live Demo · 💻 Repo
+
+</td> <td width="50%" valign="top">
+🔐 Secrets Manager
+
+Secure credential-management tool with encrypted storage and authentication.
+
+🔗 Live Demo · 💻 Repo
+
+</td> </tr> <tr> <td width="50%" valign="top">
+🎵 Music Streaming App
+
+React + Redux music platform wired into external APIs.
+
+🔗 Live Demo · 💻 Repo
+
+</td> <td width="50%" valign="top">
+🎓 GyaanSatra
+
+Educational learning platform built during a 6-month internship.
+
+💻 Repo
+
+</td> </tr> </table> <p align="center"><sub>🔗 All project links are live and pulled straight from your GitHub.</sub></p>
 
 ## 🏆 Coding Profiles
 
