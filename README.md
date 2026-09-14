@@ -8,7 +8,7 @@
 <!-- floating tech icons — upload floating-tech.svg to your repo root, then this line renders it -->
  <!-- <img src="./floating-tech.svg" width="100%"/> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=650&lines=const+me+%3D+%7B+curious%3A+true+%7D;500%2B+DSA+problems+solved;I+break+things+on+purpose+to+learn;Currently+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=650&lines=const+me+%3D+%7B+curious%3A+true+%7D;600%2B+DSA+problems+solved;I+break+things+on+purpose+to+learn;Currently+shipping+something+new" alt="Typing SVG" />
 
 </div> 
 
@@ -22,15 +22,14 @@ I like taking things apart to see how they work, then rebuilding them slightly w
 const jaspreet = {
   role: "Full Stack Developer",
   education: "B.Tech CSE",
-  dsa: "500+ problems, mostly solved out of stubbornness",
-  currentObsession: ["System Design", "Advanced React", "Backend Architecture"],
+  dsa: "600+ problems, mostly solved out of stubbornness",
   approach: "build it, break it, understand it, rebuild it better",
   funFact: "turns coffee ☕ into code 💻, and bugs into blog posts"
 };
 ```
 
 - 🎓 B.Tech CSE student, perpetually mid-project
-- 🧠 500+ DSA problems solved
+- 🧠 600+ DSA problems solved
 - 🛠️ Full-stack, end to end — auth, DBs, APIs, deployment, the whole mess
 - 🧪 Side-projects are experiments; half fail on purpose, that's the point
 - ⚡ Obsessed with software that's fast, scalable, and doesn't make users think
