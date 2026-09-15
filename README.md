@@ -126,8 +126,6 @@ React + Redux music platform wired into external APIs.
 </tr>
 </table>
 
-<p align="center"><sub>📩 Send me the real links and I'll drop them in — placeholders above so nothing's fake.</sub></p>
-
 ---
 
 ## 🏆 Coding Profiles
