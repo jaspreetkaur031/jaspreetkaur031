@@ -83,14 +83,7 @@ const jaspreet = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 📈 Zerodha Trading Platform
-Full-stack stock trading platform — auth, portfolio management, live order tracking.
-
-**[🔗 Live Demo](https://zerodha-stock-marketing-platform.netlify.app/) · [💻 Repo](https://github.com/jaspreetkaur031/ZerodhaStockTrading_Platform01)**
-
-</td>
 <td width="50%" valign="top">
 
 ### 🔐 Secrets Manager
@@ -99,16 +92,7 @@ Secure credential-management tool with encrypted storage and authentication.
 **[🔗 Live Demo](https://zero-vaultix.vercel.app/) · [💻 Repo](https://github.com/jaspreetkaur031/Secrets-manager)**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🎵 Music Streaming App
-React + Redux music platform wired into external APIs.
-
-**[🔗 Live Demo](https://miraculous-musiclistening-site.netlify.app/) · [💻 Repo](https://github.com/jaspreetkaur031/music-app-react)**
-
-</td>
 <td width="50%" valign="top">
 
 ### 🎓 GyaanSatra
@@ -117,6 +101,28 @@ Educational learning platform built during a 6-month internship.
 **[🔗 Live Demo](https://evispheretech.netlify.app/) · [💻 Repo](https://github.com/jaspreetkaur031/GyaanSatra)**
 
 </td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📈 Zerodha Trading Platform
+Full-stack stock trading platform — auth, portfolio management, live order tracking.
+
+**[🔗 Live Demo](https://zerodha-stock-marketing-platform.netlify.app/) · [💻 Repo](https://github.com/jaspreetkaur031/ZerodhaStockTrading_Platform01)**
+
+</td>
+ 
+<td width="50%" valign="top">
+
+### 🎵 Music Streaming App
+React + Redux music platform wired into external APIs.
+
+**[🔗 Live Demo](https://miraculous-musiclistening-site.netlify.app/) · [💻 Repo](https://github.com/jaspreetkaur031/music-app-react)**
+
+</td>
+
 </tr>
 </table>
 
