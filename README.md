@@ -96,7 +96,7 @@ Full-stack stock trading platform — auth, portfolio management, live order tra
 ### 🔐 Secrets Manager
 Secure credential-management tool with encrypted storage and authentication.
 
-**[🔗 Live Demo](zero-vaultix.vercel.app) · [💻 Repo](https://github.com/jaspreetkaur031/Secrets-manager)**
+**[🔗 Live Demo](https://zero-vaultix.vercel.app/) · [💻 Repo](https://github.com/jaspreetkaur031/Secrets-manager)**
 
 </td>
 </tr>
