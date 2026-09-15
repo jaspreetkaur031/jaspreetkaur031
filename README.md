@@ -28,7 +28,7 @@ const jaspreet = {
 };
 ```
 
-- 🎓 B.Tech CSE student, perpetually mid-project
+- 🎓 B.Tech CSE student
 - 🧠 600+ DSA problems solved
 - 🛠️ Full-stack, end to end — auth, DBs, APIs, deployment, the whole mess
 - 🧪 Side-projects are experiments; half fail on purpose, that's the point
