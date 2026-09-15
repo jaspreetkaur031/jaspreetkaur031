@@ -114,7 +114,7 @@ React + Redux music platform wired into external APIs.
 ### 🎓 GyaanSatra
 Educational learning platform built during a 6-month internship.
 
-**[💻 Repo](https://github.com/jaspreetkaur031/GyaanSatra)**
+**[🔗 Live Demo](https://evispheretech.netlify.app/) · [💻 Repo](https://github.com/jaspreetkaur031/GyaanSatra)**
 
 </td>
 </tr>
