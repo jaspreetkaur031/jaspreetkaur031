@@ -114,21 +114,6 @@ Educational learning platform built during a 6-month internship.
 
 <br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaspreetkaur031&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=jaspreetkaur031&theme=radical&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaspreetkaur031&theme=radical&hide_border=true" width="100%" alt="contribution graph" />
-
-</div>
-
-<br />
-
 ## 📊 GitHub in 3D
 
 <div align="center">
