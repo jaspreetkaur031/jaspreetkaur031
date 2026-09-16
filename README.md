@@ -1,22 +1,14 @@
 <div align="center">
 
-<a href="https://github.com/jaspreetkaur031/jaspreetkaur031">
-  <img src="https://raw.githubusercontent.com/jaspreetkaur031/jaspreetkaur031/main/floating-tech.svg" width="100%" alt="floating tech icons" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:F75C7E&height=180&section=header&text=Jaspreet%20Kaur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Serial%20Experimenter&descSize=16&descAlignY=58" width="100%" alt="header banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=650&lines=const+me+%3D+%7B+curious%3A+true+%7D%3B;600%2B+DSA+problems+solved;I+break+things+on+purpose+to+learn;Currently+shipping+something+new" alt="Typing SVG" />
 
 <br />
 
-# Hi 👋, I'm Jaspreet Kaur
-
-### Full Stack Developer&nbsp;·&nbsp;Problem Solver&nbsp;·&nbsp;Serial Experimenter
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=650&lines=const+me+%3D+%7B+curious%3A+true+%7D%3B;600%2B+DSA+problems+solved;I+break+things+on+purpose+to+learn;Currently+shipping+something+new" alt="Typing SVG" />
-
-<br />
-
-<!-- <img src="https://komarev.com/ghpvc/?username=jaspreetkaur031&label=Profile%20views&color=F75C7E&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=jaspreetkaur031&label=Profile%20views&color=F75C7E&style=flat" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/jaspreetkaur031?label=Followers&style=flat&color=F75C7E" alt="followers" /> -->
+<img src="https://img.shields.io/github/followers/jaspreetkaur031?label=Followers&style=flat&color=F75C7E" alt="followers" />
 
 </div>
 
@@ -127,11 +119,11 @@ Educational learning platform built during a 6-month internship.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaspreetkaur031&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jaspreetkaur031&theme=radical&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=jaspreetkaur031&theme=radical&hide_border=true" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaspreetkaur031&theme=redical&hide_border=true" width="100%" alt="contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaspreetkaur031&theme=radical&hide_border=true" width="100%" alt="contribution graph" />
 
 </div>
 
