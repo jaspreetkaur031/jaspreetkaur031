@@ -14,9 +14,9 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=jaspreetkaur031&label=Profile%20views&color=F75C7E&style=flat" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=jaspreetkaur031&label=Profile%20views&color=F75C7E&style=flat" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/jaspreetkaur031?label=Followers&style=flat&color=F75C7E" alt="followers" />
+<img src="https://img.shields.io/github/followers/jaspreetkaur031?label=Followers&style=flat&color=F75C7E" alt="followers" /> -->
 
 </div>
 
